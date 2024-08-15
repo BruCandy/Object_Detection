@@ -1,1 +1,2 @@
 backend/models/グミ_weights_train.pth filter=lfs diff=lfs merge=lfs -text
+backend/models/グミ_weights_trainβ50.pth filter=lfs diff=lfs merge=lfs -text
